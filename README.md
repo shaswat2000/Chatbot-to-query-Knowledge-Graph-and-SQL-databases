@@ -16,7 +16,7 @@ A natural language chatbot that intelligently queries a **Neo4j knowledge graph*
 - **Time-Series (TimescaleDB)** querying via SQL.
 - **Multi-hop reasoning** across both databases using LangChain agent tools.
 - **Conversational Memory** for context-aware interactions.
-- 🖥️ **Streamlit Frontend** with GPT-style chat history and tool logs.
+- **Streamlit Frontend** with GPT-style chat history and tool logs.
 - Custom grounding prompts and summarization logic for accurate answers.
 
 ---
