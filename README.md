@@ -1,5 +1,5 @@
 
-# 🧠 AI Chatbot for Knowledge Graph & Time-Series Queries
+# AI Chatbot for Knowledge Graph & Time-Series Queries
 
 A natural language chatbot that intelligently queries a **Neo4j knowledge graph** and a **TimescaleDB time-series database** using **LangChain agents**, **Groq LLMs**, and a **Streamlit interface**.
 
@@ -10,18 +10,18 @@ A natural language chatbot that intelligently queries a **Neo4j knowledge graph*
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 **Knowledge Graph (Neo4j)** querying via Cypher.
-- 📈 **Time-Series (TimescaleDB)** querying via SQL.
-- 🧠 **Multi-hop reasoning** across both databases using LangChain agent tools.
-- 💬 **Conversational Memory** for context-aware interactions.
+- **Knowledge Graph (Neo4j)** querying via Cypher.
+- **Time-Series (TimescaleDB)** querying via SQL.
+- **Multi-hop reasoning** across both databases using LangChain agent tools.
+- **Conversational Memory** for context-aware interactions.
 - 🖥️ **Streamlit Frontend** with GPT-style chat history and tool logs.
-- ⚙️ Custom grounding prompts and summarization logic for accurate answers.
+- Custom grounding prompts and summarization logic for accurate answers.
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Component         | Stack                                   |
 |------------------|------------------------------------------|
@@ -34,7 +34,7 @@ A natural language chatbot that intelligently queries a **Neo4j knowledge graph*
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ### 1. Clone the repo
 ```bash
@@ -67,7 +67,7 @@ streamlit run agent.py
 
 ---
 
-## 💡 Example Questions
+## Example Questions
 
 ```plaintext
 • What rooms are serviced by AC-D2?
